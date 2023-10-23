@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[user]
+	name = ivan
+	email = ivan@example.com
+[alias]
+	history = log --graph
